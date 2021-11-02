@@ -2,4 +2,4 @@
 readme added something
 added more
 in lib
-changed reademe
+changed reade
