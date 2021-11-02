@@ -31,6 +31,7 @@ test {
 
 bootJar {
 	enabled = false
+	archiveClassifier = '' //use empty string
 }
 
 jar{
