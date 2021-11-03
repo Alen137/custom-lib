@@ -1,1 +1,1 @@
-.\gradlew clean build -x test deploy
+.\gradlew clean build -x test
