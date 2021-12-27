@@ -26,4 +26,10 @@ public class Encrypt {
 
     }
     
+    public void test3(){
+        //System.out.println("This is for test?");
+        int a;
+
+    }
+    
 }
