@@ -19,4 +19,11 @@ public class Encrypt {
         int a;
 
     }
+    
+    public void test2(){
+        System.out.println("This is for test?");
+        
+
+    }
+    
 }
