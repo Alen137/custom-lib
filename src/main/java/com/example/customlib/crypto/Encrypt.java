@@ -13,4 +13,10 @@ public class Encrypt {
         sb.reverse();
         return sb.toString();
     }
+    
+    public void test(){
+        System.out.println("This is for test?");
+        int a;
+
+    }
 }
