@@ -6,6 +6,10 @@ public class Customer{
   
     System.out.println("This is test2");
   }
+ 
+ int add(){
+    return(100); 
+ }
 
 }
 
