@@ -1,0 +1,1 @@
+.\gradlew sonarqube -Dsonar.projectKey=custom-lib -Dsonar.host.url=http://localhost:9000 -Dsonar.login=beb0ac41b0264d8c5ad55fc7b7bae41c772d056e
