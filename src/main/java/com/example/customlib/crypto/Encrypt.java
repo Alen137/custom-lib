@@ -32,4 +32,8 @@ public class Encrypt {
 
     }
     
+    public void empty(){
+            
+    }
+    
 }
