@@ -10,6 +10,10 @@ public class Customer{
  int add(){
     return(100); 
  }
+ 
+ void empty(){
+ 
+ }
 
 }
 
